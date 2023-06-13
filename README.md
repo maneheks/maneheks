@@ -1,6 +1,6 @@
 Hi, I'm Lydia. 
 
-I'm a programming student currently studying certificate iv in programming at tafesa. Next year i will pursue a diploma of advanced programming at tafesa. My goal is to achieve a bachelor of software engineering (honours) in the next 5 years.
+I'm a programming student currently studying Certificate IV in Programming at TafeSA. Next year I will pursue a Diploma of Advanced Programming. My goal is to achieve a Bachelor of Software Engineering (Honours) in the next 5 years.
 
 I'm currently learning:
 
