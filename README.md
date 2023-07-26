@@ -13,5 +13,4 @@ I'm currently learning:
 
 Reach out:
 
-<img src="https://github.com/maneheks/maneheks/raw/main/images/star.gif" width="20"> [maneheks on Discord](http://discordapp.com/users/1023039537968074774)<br>
 <img src="https://github.com/maneheks/maneheks/raw/main/images/star.gif" width="20"> [lydiakristinee@outlook.com via email](mailto:lydiakristinee@outlook.com?subject=hello%20from%20github&body=hi%20lydia%2c%0a)
