@@ -8,8 +8,10 @@ I'm currently learning:
 ![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") JavaScript<br>
 ![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") C#<br>
 ![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") Python<br>
-![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") SQL<br>
-![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") XAML<br>
+![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") Java<br>
+![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") SQL & PHP<br>
+![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") XAML & UWP <br>
+![Dancing Leaf](https://github.com/maneheks/maneheks/raw/main/images/leaf-dance.gif "Dancing Leaf") UML <br>
 
 Reach out:
 
