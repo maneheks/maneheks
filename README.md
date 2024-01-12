@@ -1,6 +1,6 @@
 Hi, I'm Lydia. 
 
-I'm a programming student currently studying Certificate IV in Programming at TafeSA. Next year I will pursue a Bachelor of Software Engineering (Honours).
+I'm a programming student currently studying a Bachelor of Software Engineering (Honours).
 
 Reach out via [email](mailto:lydiakristinee@outlook.com?subject=Hello%20From%20GitHub&body=Hi%20Lydia%2c%0a) or visit my [DevFolio](https://lydiakristine.dev).
 
