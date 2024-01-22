@@ -1,10 +1,10 @@
 Hi, I'm Lydia. 
 
-I'm a programming student currently studying a Bachelor of Software Engineering (Honours).
+I'm currently studying a Bachelor of Software Engineering (Honours).
 
-Reach out via [email](mailto:lydiakristinee@outlook.com?subject=Hello%20From%20GitHub&body=Hi%20Lydia%2c%0a) or visit my [DevFolio](https://lydiakristine.dev).
+Reach out via [email](mailto:lydiakristinee@outlook.com?subject=Hello%20From%20GitHub&body=Hi%20Lydia%2c%0a).
 
-I am currently learning a variety of programming languages and technologies, including:
+I am learning a variety of programming languages and technologies, including:
 
 | Front-End Web Development | Programming Languages | Other |
 | --- | --- | --- |
